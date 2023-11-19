@@ -13,8 +13,7 @@ _this is how you write the italic way_
 **The best Country is <sup>Palestine</sup>** ~~and the lowest country is <sub>israeal</sub>~~
 
 >**today we will learn how to Quote**
-this is not quote
->this is a quote
+
 
 and this is how to do a quoting for a code
 like  `git status` is used to know what is in the local repo
